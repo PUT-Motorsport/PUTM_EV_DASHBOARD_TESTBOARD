@@ -534,12 +534,6 @@
 		(uuid "405cd8ce-b382-4d6a-aa64-40d7578a0701")
 	)
 	(junction
-		(at 140.97 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5a459574-7ad8-4528-a7de-bb6d31ee9161")
-	)
-	(junction
 		(at 140.97 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -557,16 +551,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 139.7) (xy 130.81 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ef3b567-9631-4e92-9840-33bbb64188cb")
-	)
-	(wire
-		(pts
 			(xy 138.43 33.02) (xy 146.05 33.02)
 		)
 		(stroke
@@ -574,16 +558,6 @@
 			(type default)
 		)
 		(uuid "21afed4f-f44f-4875-b888-d25efbf2f109")
-	)
-	(wire
-		(pts
-			(xy 140.97 139.7) (xy 140.97 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33d32c1b-14a3-436d-adbb-702070e8ca29")
 	)
 	(wire
 		(pts
@@ -707,16 +681,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 139.7) (xy 148.59 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8135e86-b5d9-49f7-8adf-031cc2b92a2a")
-	)
-	(wire
-		(pts
 			(xy 140.97 118.11) (xy 140.97 120.65)
 		)
 		(stroke
@@ -738,28 +702,6 @@
 		(uuid "1143b37d-a1b6-4c52-b425-2787205b19c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.679 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BUTTON_1"
-		(shape input)
-		(at 148.59 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "12a84f20-59b4-4266-a08e-d646c3146499")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.949 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1198,72 +1140,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 125.73 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "38c0a2c7-a0d1-454b-885c-171869d0f498")
-		(property "Reference" "#PWR039"
-			(at 125.73 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3.3V"
-			(at 125.73 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 125.73 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "47384f2c-ac64-442c-aed4-722f583d8608")
-		)
-		(instances
-			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
-				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
-					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 139.7 60.96 0)
 		(unit 1)
@@ -1670,76 +1546,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 140.97 144.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9d02c9fc-4527-4521-a07a-e350546b6c78")
-		(property "Reference" "R6"
-			(at 143.51 143.5099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1K"
-			(at 143.51 146.0499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 140.97 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 140.97 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a2a33c3d-00f5-4967-af35-3eb342afd197")
-		)
-		(pin "2"
-			(uuid "2dff24fe-94d2-47de-aa45-9d0b33775453")
-		)
-		(instances
-			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
-				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
-					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 135.89 78.74 0)
 		(unit 1)
@@ -1868,72 +1674,6 @@
 			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
 				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
 					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 140.97 147.32 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bbd6debc-2e11-4f39-873c-41b2ffc65289")
-		(property "Reference" "#PWR040"
-			(at 140.97 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 140.97 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 140.97 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00c4e7ba-4d19-48fc-b5fd-c1fd4281190c")
-		)
-		(instances
-			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
-				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
-					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -2266,74 +2006,6 @@
 			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
 				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
 					(reference "SW5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 135.89 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d40c6ab0-e91a-4c69-843f-2124daae3c4b")
-		(property "Reference" "SW6"
-			(at 135.89 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 135.89 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
-			(at 135.89 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 135.89 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e4563a58-d77d-4c3e-8c6d-8d5765e0d42e")
-		)
-		(pin "1"
-			(uuid "b8c36c5b-38fe-4936-be96-5f552a0bfa62")
-		)
-		(instances
-			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
-				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/1141ebe3-6757-4602-bc41-f23921c9ac0b"
-					(reference "SW6")
 					(unit 1)
 				)
 			)

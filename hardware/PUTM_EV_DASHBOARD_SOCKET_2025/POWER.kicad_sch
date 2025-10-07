@@ -3239,7 +3239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical"
+		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief"
 			(at 171.45 73.66 0)
 			(effects
 				(font
