@@ -1,0 +1,267 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8dcb9295-4fa2-433e-bd2f-4b006d008a4e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 69.85 155.575)
+		(size 88.265 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1141ebe3-6757-4602-bc41-f23921c9ac0b")
+		(property "Sheetname" "BUTTONS"
+			(at 69.85 154.8634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BUTTONS.kicad_sch"
+			(at 69.85 168.8596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.645 94.615)
+		(size 68.58 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b3cf35a-a2ef-483a-8c57-15009dc39242")
+		(property "Sheetname" "LEDS"
+			(at 207.645 93.9034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LEDS.kicad_sch"
+			(at 207.645 137.1096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.685 67.31)
+		(size 78.105 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9b1bc52f-6033-4f71-8f99-a4060d1be2be")
+		(property "Sheetname" "SWD"
+			(at 19.685 66.5984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SWD.kicad_sch"
+			(at 19.685 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 55.245)
+		(size 47.625 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c92b4e8c-c56a-494c-81ca-99d15cc481d1")
+		(property "Sheetname" "CAN"
+			(at 121.92 54.5334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 121.92 67.2596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 175.895)
+		(size 69.215 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "caddd3ae-b81f-45b3-a8ff-5f1df93ac1f9")
+		(property "Sheetname" "POWER"
+			(at 16.51 175.1834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 16.51 193.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.415 17.145)
+		(size 85.725 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d4b2ab11-a1af-46a1-86ab-311ce4579ee8")
+		(property "Sheetname" "SOCKETS_2X20"
+			(at 18.415 16.4334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SOCKETS_2X20.kicad_sch"
+			(at 18.415 59.6396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
+				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
