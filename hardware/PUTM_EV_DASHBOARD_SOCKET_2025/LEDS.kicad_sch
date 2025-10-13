@@ -1276,71 +1276,38 @@
 		)
 		(uuid "fb3c786b-fe43-4d44-b1b9-1739424d0ab0")
 	)
-	(global_label "SAFETY_LED"
-		(shape input)
-		(at 76.2 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "285d7e4c-df8e-4246-bf3d-eba992826af7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.2082 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "AMS"
-		(shape input)
-		(at 121.92 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bbcd3846-4a98-4414-829e-3b157d5d9d32")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.1853 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "FUSE_LED"
+	(hierarchical_label "FUSE_LED"
 		(shape input)
 		(at 33.02 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right)
 		)
-		(uuid "e09c6726-c6b4-44d9-82f9-ced63a61dc7c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.8425 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
+		(uuid "0231a876-57e9-4120-9c3f-a49309eeaea1")
+	)
+	(hierarchical_label "AMS"
+		(shape input)
+		(at 121.92 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify right)
 		)
+		(uuid "39bbd837-5c8f-40b0-bae5-db58c05da664")
+	)
+	(hierarchical_label "SAFETY_LED"
+		(shape input)
+		(at 76.2 96.52 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ce9d4977-b1ec-41d6-8536-d56704c0649e")
 	)
 	(symbol
 		(lib_id "Device:R_Small")

@@ -689,115 +689,60 @@
 		)
 		(uuid "d9da8a00-2488-45bc-9414-ebd3601a39dd")
 	)
-	(global_label "BUTTON_4"
-		(shape input)
-		(at 147.32 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1143b37d-a1b6-4c52-b425-2787205b19c8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.679 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BUTTON_3"
-		(shape input)
-		(at 148.59 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "26604215-72d1-443b-94d5-d08b880460db")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.949 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BUTTON_5"
-		(shape input)
-		(at 148.59 118.11 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "76ff02b2-7f9c-4342-801a-5de1f7f7a3ed")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.949 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BUTTON_2"
+	(hierarchical_label "BUTTON_2"
 		(shape input)
 		(at 147.32 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "8cfc59b7-db81-4ff1-a325-43cad84fe938")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.679 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
+		(uuid "82f0a9b7-d6fc-4c0a-8346-35c104cac319")
 	)
-	(global_label "BUTTON_1"
+	(hierarchical_label "BUTTON_1"
 		(shape input)
 		(at 146.05 33.02 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left)
 		)
-		(uuid "cc84cc23-58a0-4459-8590-ce58513dfc02")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.409 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
+		(uuid "951c95e1-6a0b-4a17-8628-1075c75ee08c")
+	)
+	(hierarchical_label "BUTTON_3"
+		(shape input)
+		(at 148.59 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
 			)
+			(justify left)
 		)
+		(uuid "a0364b09-58b8-4fd2-b3be-5e19ee2f9a6b")
+	)
+	(hierarchical_label "BUTTON_4"
+		(shape input)
+		(at 147.32 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4a082f8-a823-497f-b141-d246ea431b14")
+	)
+	(hierarchical_label "BUTTON_5"
+		(shape input)
+		(at 148.59 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fbdc9aa2-0e2c-4ac6-9687-eaff19d8b5bc")
 	)
 	(symbol
 		(lib_id "power:+3.3V")
@@ -891,7 +836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 133.35 27.94 0)
 			(effects
 				(font
@@ -1367,7 +1312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 134.62 90.17 0)
 			(effects
 				(font
@@ -1571,7 +1516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 135.89 73.66 0)
 			(effects
 				(font
@@ -1969,7 +1914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 135.89 113.03 0)
 			(effects
 				(font
@@ -2037,7 +1982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 134.62 50.8 0)
 			(effects
 				(font
