@@ -156,10 +156,6 @@
 		(uuid "d41b31f5-f068-43b6-8d6e-e80489b8d903")
 	)
 	(no_connect
-		(at 256.54 128.27)
-		(uuid "d64af6e5-d4b9-4dcf-aa57-1861ddfaf3d5")
-	)
-	(no_connect
 		(at 207.01 107.95)
 		(uuid "d7e1acb2-49ba-42ea-84d4-fdf40a48ca84")
 	)
@@ -1383,16 +1379,6 @@
 		(pin "POWER1" input
 			(at 256.54 125.73 180)
 			(uuid "284bd531-e74d-401f-9b6b-b129bdc7cd8c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "POWER_EN" input
-			(at 256.54 128.27 180)
-			(uuid "56df4dab-b436-463d-9272-ee4db3279a81")
 			(effects
 				(font
 					(size 1.27 1.27)

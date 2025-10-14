@@ -1957,7 +1957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:PJ3253"
 			(at 116.84 73.66 0)
 			(effects
 				(font
@@ -2428,7 +2428,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "footprints:PJ3253"
 			(at 116.84 78.74 0)
 			(effects
 				(font
