@@ -1530,6 +1530,100 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 73.66 60.325)
+		(end 207.645 109.22)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7cac448d-890d-4c36-8b55-eb98176a321b)
+	)
+	(rectangle
+		(start 37.465 15.875)
+		(end 227.965 58.42)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f39b5442-1099-4a1f-b42f-c6300d710947)
+	)
+	(text "ZASILANIE PŁYTKI\n"
+		(exclude_from_sim no)
+		(at 90.424 63.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "20503cc8-e505-460a-b476-a39e58550d04")
+	)
+	(text "GNIAZDA BANANOWE\n"
+		(exclude_from_sim no)
+		(at 123.698 67.818 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39b36b72-8f07-4275-96ae-519bae3b2823")
+	)
+	(text "STABILIZATOR NAPIĘCIA +3.3V"
+		(exclude_from_sim no)
+		(at 180.848 29.972 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "464e89e9-cbaf-477e-b66f-a5e8987e3b9e")
+	)
+	(text "GNIAZDO ZASILACZA\n"
+		(exclude_from_sim no)
+		(at 131.826 88.392 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5a5f85da-09f3-4e4f-8395-460bfbb919ba")
+	)
+	(text "ZŁĄCZE MOLEX\n"
+		(exclude_from_sim no)
+		(at 181.61 67.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7e52a53a-c639-4a3e-a1d9-32fa9ff53d91")
+	)
+	(text "STABILIZATOR NAPIĘCIA +5V\n"
+		(exclude_from_sim no)
+		(at 124.46 30.988 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb96214f-6824-4972-a3f9-fbc25a0760c3")
+	)
+	(text "ZASILANIE LOGIKI\n"
+		(exclude_from_sim no)
+		(at 54.356 21.844 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fed8ec3a-6482-4e67-b952-b656584052a4")
+	)
 	(junction
 		(at 203.2 39.37)
 		(diameter 0)

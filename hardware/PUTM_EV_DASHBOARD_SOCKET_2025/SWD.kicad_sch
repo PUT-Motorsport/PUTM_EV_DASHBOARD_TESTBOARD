@@ -892,6 +892,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 76.2 64.77)
+		(end 198.755 106.045)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid c1f3b549-df2e-4a66-a11d-cf01aeecf319)
+	)
+	(text "ZŁĄCZA SWD\n"
+		(exclude_from_sim no)
+		(at 121.666 71.628 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b298521f-a54e-42b9-83e8-d9f6ac817c62")
+	)
 	(junction
 		(at 97.79 91.44)
 		(diameter 0)
@@ -933,7 +955,7 @@
 		(uuid "b61fa699-b52c-4842-9373-ffc6a64b40a9")
 	)
 	(no_connect
-		(at 187.96 87.63)
+		(at 162.56 93.98)
 		(uuid "c9e6ae96-9dbe-447e-a887-f570815abf2d")
 	)
 	(wire
@@ -958,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 77.47) (xy 187.96 77.47)
+			(xy 154.94 83.82) (xy 162.56 83.82)
 		)
 		(stroke
 			(width 0)
@@ -978,7 +1000,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 82.55) (xy 187.96 82.55)
+			(xy 154.94 88.9) (xy 162.56 88.9)
 		)
 		(stroke
 			(width 0)
@@ -1019,7 +1041,7 @@
 	)
 	(hierarchical_label "SWD_SW_CLK"
 		(shape input)
-		(at 180.34 77.47 180)
+		(at 154.94 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1030,7 +1052,7 @@
 	)
 	(hierarchical_label "SWD_VCC_+3.3V"
 		(shape input)
-		(at 187.96 74.93 180)
+		(at 162.56 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1063,7 +1085,7 @@
 	)
 	(hierarchical_label "SWD_SW_DIO"
 		(shape input)
-		(at 180.34 82.55 180)
+		(at 154.94 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1074,7 +1096,7 @@
 	)
 	(hierarchical_label "SWD_RST"
 		(shape input)
-		(at 187.96 85.09 180)
+		(at 162.56 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1252,7 +1274,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 80.01 270)
+		(at 162.56 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1261,7 +1283,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a518c33-c371-4912-b0a8-2a6e396951ce")
 		(property "Reference" "#PWR042"
-			(at 181.61 80.01 0)
+			(at 156.21 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1270,7 +1292,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 184.15 80.0099 90)
+			(at 158.75 86.3599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1279,7 +1301,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 80.01 0)
+			(at 162.56 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1288,7 +1310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 80.01 0)
+			(at 162.56 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1297,7 +1319,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 80.01 0)
+			(at 162.56 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1319,7 +1341,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x06_MountingPin")
-		(at 193.04 80.01 0)
+		(at 167.64 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1328,7 +1350,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0424ccc-cc8d-4c7d-b2f6-77e020b72f38")
 		(property "Reference" "SWD2"
-			(at 195.58 80.0099 0)
+			(at 170.18 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1337,7 +1359,7 @@
 			)
 		)
 		(property "Value" "Conn_01x06_MountingPin"
-			(at 195.58 82.5499 0)
+			(at 170.18 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1346,7 +1368,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief"
-			(at 193.04 80.01 0)
+			(at 167.64 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1355,7 +1377,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 193.04 80.01 0)
+			(at 167.64 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1364,7 +1386,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 193.04 80.01 0)
+			(at 167.64 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)

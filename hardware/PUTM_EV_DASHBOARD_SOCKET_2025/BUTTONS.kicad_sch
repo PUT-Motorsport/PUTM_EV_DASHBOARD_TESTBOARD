@@ -509,6 +509,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 113.665 16.51)
+		(end 167.005 138.43)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3056f5a4-1a27-42f7-a5aa-2ced7890b2b7)
+	)
+	(text "PRZYCISKI\n"
+		(exclude_from_sim no)
+		(at 122.682 19.812 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "972d91b0-8b33-4fa9-8668-20d5a8a9eeb4")
+	)
 	(junction
 		(at 139.7 55.88)
 		(diameter 0)

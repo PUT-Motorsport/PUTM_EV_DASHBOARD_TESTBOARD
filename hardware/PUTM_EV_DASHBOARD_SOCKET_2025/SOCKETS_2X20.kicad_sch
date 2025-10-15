@@ -1526,6 +1526,82 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 123.825 120.015)
+		(end 167.005 178.435)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4285cbfb-09bf-4bff-8441-9b2c7f9ea583)
+	)
+	(rectangle
+		(start 93.345 44.45)
+		(end 207.645 115.57)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4fbf686a-6085-4a1b-aef0-df40919fe6dc)
+	)
+	(rectangle
+		(start 64.135 132.08)
+		(end 97.155 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 886d39af-a5e5-45b4-9f96-0fbadc19ce48)
+	)
+	(text "GNIAZDO \n"
+		(exclude_from_sim no)
+		(at 166.878 51.308 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "26a6ebbd-51ce-407c-884c-0efc903b73bc")
+	)
+	(text "GOLDPINY\n"
+		(exclude_from_sim no)
+		(at 109.982 49.784 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3f92dcab-e215-4660-bb94-7e95ac3479dc")
+	)
+	(text "ZWORKI DO LEDEK\n"
+		(exclude_from_sim no)
+		(at 75.692 135.128 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7c08887e-2bc8-4b02-b3f1-cc2fd2af1909")
+	)
+	(text "ZWORKI DO PRZYCISKÓW\n"
+		(exclude_from_sim no)
+		(at 138.176 123.444 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dd7ef312-fb43-4a47-acbb-9c8f01c692e7")
+	)
 	(wire
 		(pts
 			(xy 185.42 106.68) (xy 195.58 106.68)
@@ -2349,7 +2425,7 @@
 	)
 	(hierarchical_label "P14"
 		(shape input)
-		(at 138.43 129.54 0)
+		(at 144.78 142.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2360,7 +2436,7 @@
 	)
 	(hierarchical_label "PA15"
 		(shape input)
-		(at 138.43 139.7 0)
+		(at 144.78 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2382,7 +2458,7 @@
 	)
 	(hierarchical_label "PH4"
 		(shape input)
-		(at 90.17 138.43 0)
+		(at 81.28 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2448,7 +2524,7 @@
 	)
 	(hierarchical_label "PB0"
 		(shape input)
-		(at 138.43 119.38 0)
+		(at 144.78 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2459,7 +2535,7 @@
 	)
 	(hierarchical_label "PA3"
 		(shape input)
-		(at 138.43 160.02 0)
+		(at 144.78 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2503,7 +2579,7 @@
 	)
 	(hierarchical_label "PA5"
 		(shape input)
-		(at 90.17 118.11 0)
+		(at 81.28 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2536,7 +2612,7 @@
 	)
 	(hierarchical_label "PH5"
 		(shape input)
-		(at 90.17 128.27 0)
+		(at 81.28 161.29 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2635,7 +2711,7 @@
 	)
 	(hierarchical_label "BUTTON_1"
 		(shape input)
-		(at 138.43 121.92 0)
+		(at 144.78 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2668,7 +2744,7 @@
 	)
 	(hierarchical_label "PH11"
 		(shape input)
-		(at 138.43 149.86 0)
+		(at 144.78 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2679,7 +2755,7 @@
 	)
 	(hierarchical_label "SAFETY_LED"
 		(shape input)
-		(at 90.17 130.81 0)
+		(at 81.28 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2778,7 +2854,7 @@
 	)
 	(hierarchical_label "BUTTON_2"
 		(shape input)
-		(at 138.43 132.08 0)
+		(at 144.78 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2855,7 +2931,7 @@
 	)
 	(hierarchical_label "BUTTON_4"
 		(shape input)
-		(at 138.43 152.4 0)
+		(at 144.78 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2976,7 +3052,7 @@
 	)
 	(hierarchical_label "AMS"
 		(shape input)
-		(at 90.17 120.65 0)
+		(at 81.28 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3119,7 +3195,7 @@
 	)
 	(hierarchical_label "BUTTON_3"
 		(shape input)
-		(at 138.43 142.24 0)
+		(at 144.78 154.94 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3141,7 +3217,7 @@
 	)
 	(hierarchical_label "BUTTON_5"
 		(shape input)
-		(at 138.43 162.56 0)
+		(at 144.78 175.26 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3240,7 +3316,7 @@
 	)
 	(hierarchical_label "FUSE_LED"
 		(shape input)
-		(at 90.17 140.97 0)
+		(at 81.28 173.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3284,7 +3360,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 85.09 128.27 0)
+		(at 76.2 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3293,7 +3369,7 @@
 		(fields_autoplaced yes)
 		(uuid "1af50b0f-1f5c-4df5-8278-87cb8f4095cc")
 		(property "Reference" "J2"
-			(at 85.725 123.19 0)
+			(at 76.835 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3301,7 +3377,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 85.725 125.73 0)
+			(at 76.835 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3309,7 +3385,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 85.09 128.27 0)
+			(at 76.2 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3318,7 +3394,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 128.27 0)
+			(at 76.2 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3327,7 +3403,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 85.09 128.27 0)
+			(at 76.2 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3352,7 +3428,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 133.35 119.38 0)
+		(at 139.7 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3361,7 +3437,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ff93d18-8016-4969-8407-764906e1e32b")
 		(property "Reference" "CS_BTN1"
-			(at 133.985 116.84 0)
+			(at 140.335 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3369,7 +3445,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 133.985 116.84 0)
+			(at 140.335 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3378,7 +3454,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 133.35 119.38 0)
+			(at 139.7 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3387,7 +3463,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 119.38 0)
+			(at 139.7 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3396,7 +3472,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 133.35 119.38 0)
+			(at 139.7 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3921,7 +3997,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 133.35 149.86 0)
+		(at 139.7 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3930,7 +4006,7 @@
 		(fields_autoplaced yes)
 		(uuid "602aa081-17de-46aa-9eb2-665962221cdb")
 		(property "Reference" "USR_BTN1"
-			(at 133.985 147.32 0)
+			(at 140.335 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3938,7 +4014,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 133.985 147.32 0)
+			(at 140.335 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3947,7 +4023,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 133.35 149.86 0)
+			(at 139.7 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,7 +4032,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 149.86 0)
+			(at 139.7 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3965,7 +4041,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 133.35 149.86 0)
+			(at 139.7 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4057,7 +4133,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 85.09 138.43 0)
+		(at 76.2 171.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4066,7 +4142,7 @@
 		(fields_autoplaced yes)
 		(uuid "64bc5426-3fa0-46ff-9f87-8e62bcd23611")
 		(property "Reference" "J3"
-			(at 85.725 133.35 0)
+			(at 76.835 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4074,7 +4150,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 85.725 135.89 0)
+			(at 76.835 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4082,7 +4158,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 85.09 138.43 0)
+			(at 76.2 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4091,7 +4167,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 138.43 0)
+			(at 76.2 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4100,7 +4176,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 85.09 138.43 0)
+			(at 76.2 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4326,7 +4402,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 85.09 118.11 0)
+		(at 76.2 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4335,7 +4411,7 @@
 		(fields_autoplaced yes)
 		(uuid "b284b11a-25c0-48cb-84f8-f5fc7533b39b")
 		(property "Reference" "J1"
-			(at 85.725 113.03 0)
+			(at 76.835 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4343,7 +4419,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 85.725 115.57 0)
+			(at 76.835 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4351,7 +4427,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 85.09 118.11 0)
+			(at 76.2 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4360,7 +4436,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 118.11 0)
+			(at 76.2 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4369,7 +4445,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 85.09 118.11 0)
+			(at 76.2 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +4470,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 133.35 129.54 0)
+		(at 139.7 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4403,7 +4479,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7ddf8f6-938c-4ebc-82e5-6db9d27b1036")
 		(property "Reference" "RTD_BTN1"
-			(at 133.985 127 0)
+			(at 140.335 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4411,7 +4487,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 133.985 127 0)
+			(at 140.335 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4420,7 +4496,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 133.35 129.54 0)
+			(at 139.7 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4429,7 +4505,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 129.54 0)
+			(at 139.7 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4438,7 +4514,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 133.35 129.54 0)
+			(at 139.7 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4731,7 +4807,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 133.35 160.02 0)
+		(at 139.7 172.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4740,7 +4816,7 @@
 		(fields_autoplaced yes)
 		(uuid "f1af1950-eaa7-45b7-ba83-91840a02cf87")
 		(property "Reference" "DRS_BTN1"
-			(at 133.985 157.48 0)
+			(at 140.335 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4748,7 +4824,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 133.985 157.48 0)
+			(at 140.335 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4757,7 +4833,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 133.35 160.02 0)
+			(at 139.7 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4766,7 +4842,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 160.02 0)
+			(at 139.7 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4775,7 +4851,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 133.35 160.02 0)
+			(at 139.7 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4800,7 +4876,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 133.35 139.7 0)
+		(at 139.7 152.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4809,7 +4885,7 @@
 		(fields_autoplaced yes)
 		(uuid "f344832b-7caa-4eb0-b765-d7378d6d758b")
 		(property "Reference" "TSA_BTN1"
-			(at 133.985 137.16 0)
+			(at 140.335 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4817,7 +4893,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 133.985 137.16 0)
+			(at 140.335 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4826,7 +4902,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 133.35 139.7 0)
+			(at 139.7 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +4911,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 139.7 0)
+			(at 139.7 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4844,7 +4920,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 133.35 139.7 0)
+			(at 139.7 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)

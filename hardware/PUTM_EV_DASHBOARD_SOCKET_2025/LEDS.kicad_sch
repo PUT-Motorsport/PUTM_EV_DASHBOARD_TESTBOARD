@@ -958,6 +958,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 17.145 55.245)
+		(end 156.21 118.11)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1b1fe59d-fb42-40c1-91a1-8169e163035a)
+	)
 	(text "100 mW"
 		(exclude_from_sim no)
 		(at 45.466 76.962 0)
@@ -977,6 +989,16 @@
 			)
 		)
 		(uuid "59259a87-97e3-4573-b35b-c6575a14dd55")
+	)
+	(text "LEDY\n"
+		(exclude_from_sim no)
+		(at 37.846 60.706 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "781ce319-e8c8-45c3-8461-a674fe86a63d")
 	)
 	(text "100 mW"
 		(exclude_from_sim no)

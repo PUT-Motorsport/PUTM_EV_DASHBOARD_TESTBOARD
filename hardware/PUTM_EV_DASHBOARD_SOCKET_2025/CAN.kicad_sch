@@ -1241,6 +1241,50 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 96.52 55.245)
+		(end 174.625 101.6)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0b73c2ba-3822-4bc5-8075-734b6c365184)
+	)
+	(rectangle
+		(start 175.895 60.96)
+		(end 230.505 98.425)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bd365b75-5b3e-426e-b08c-f09c219d25c2)
+	)
+	(text "CAN PRZEWODOWY \n"
+		(exclude_from_sim no)
+		(at 192.278 64.516 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "158b04a3-da8e-4376-9ae4-f2f849bea9fe")
+	)
+	(text "CAN NA ZŁĄCZU DB9\n"
+		(exclude_from_sim no)
+		(at 110.49 57.912 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a3e44327-169b-4d34-a546-9b1c72b741a5")
+	)
 	(no_connect
 		(at 120.65 68.58)
 		(uuid "42d80766-27b7-47c5-be24-7ddc6a22be00")
@@ -1279,7 +1323,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 90.17) (xy 231.14 87.63)
+			(xy 171.45 78.74) (xy 171.45 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1299,7 +1343,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 87.63) (xy 194.31 92.71)
+			(xy 214.63 80.01) (xy 214.63 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1309,7 +1353,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 80.01) (xy 194.31 82.55)
+			(xy 214.63 72.39) (xy 214.63 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1319,7 +1363,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 87.63) (xy 228.6 87.63)
+			(xy 171.45 76.2) (xy 168.91 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1339,7 +1383,7 @@
 	)
 	(hierarchical_label "CAN_P"
 		(shape input)
-		(at 194.31 95.25 0)
+		(at 214.63 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1350,7 +1394,7 @@
 	)
 	(hierarchical_label "CAN_N"
 		(shape input)
-		(at 194.31 80.01 0)
+		(at 214.63 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1361,7 +1405,7 @@
 	)
 	(hierarchical_label "CAN_N"
 		(shape input)
-		(at 168.91 82.55 0)
+		(at 189.23 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1405,7 +1449,7 @@
 	)
 	(hierarchical_label "CAN_P"
 		(shape input)
-		(at 168.91 85.09 0)
+		(at 189.23 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1438,7 +1482,7 @@
 	)
 	(hierarchical_label "CAN_P"
 		(shape input)
-		(at 224.79 96.52 0)
+		(at 165.1 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1471,7 +1515,7 @@
 	)
 	(hierarchical_label "CAN_N"
 		(shape input)
-		(at 224.79 78.74 0)
+		(at 165.1 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1584,7 +1628,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 163.83 82.55 0)
+		(at 184.15 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1593,7 +1637,7 @@
 		(fields_autoplaced yes)
 		(uuid "0cda598a-f476-4dab-98f2-265743f4e1de")
 		(property "Reference" "ALT_CAN0"
-			(at 164.465 77.47 0)
+			(at 184.785 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1601,7 +1645,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 164.465 80.01 0)
+			(at 184.785 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1609,7 +1653,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm_Relief"
-			(at 163.83 82.55 0)
+			(at 184.15 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1618,7 +1662,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 163.83 82.55 0)
+			(at 184.15 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1627,7 +1671,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 163.83 82.55 0)
+			(at 184.15 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1652,7 +1696,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 194.31 85.09 0)
+		(at 214.63 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1660,7 +1704,7 @@
 		(dnp no)
 		(uuid "1623d91b-5eb7-4dde-abb4-c1aaad38baf9")
 		(property "Reference" "R11"
-			(at 196.85 83.8199 0)
+			(at 217.17 76.1999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1669,7 +1713,7 @@
 			)
 		)
 		(property "Value" "120"
-			(at 196.596 85.598 0)
+			(at 216.916 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1678,7 +1722,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 194.31 85.09 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,7 +1731,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 194.31 85.09 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1696,7 +1740,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 194.31 85.09 0)
+			(at 214.63 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1797,7 +1841,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 189.23 92.71 0)
+		(at 209.55 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1806,7 +1850,7 @@
 		(fields_autoplaced yes)
 		(uuid "9fa14a7d-5897-4c43-b51f-895970de7e7e")
 		(property "Reference" "TERM_1"
-			(at 189.865 87.63 0)
+			(at 210.185 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1814,7 +1858,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 189.865 90.17 0)
+			(at 210.185 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +1866,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
-			(at 189.23 92.71 0)
+			(at 209.55 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1831,7 +1875,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 189.23 92.71 0)
+			(at 209.55 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1840,7 +1884,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 189.23 92.71 0)
+			(at 209.55 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1865,7 +1909,7 @@
 	)
 	(symbol
 		(lib_id "BMS_LV_2022-rescue:D_TVS_x2_AAC-Device")
-		(at 224.79 87.63 90)
+		(at 165.1 76.2 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1873,7 +1917,7 @@
 		(dnp no)
 		(uuid "c8f26baa-4878-414b-9d91-c0b81bcaa8d1")
 		(property "Reference" "D8"
-			(at 218.44 88.9 0)
+			(at 158.75 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1882,7 +1926,7 @@
 			)
 		)
 		(property "Value" "PESD2CAN.215"
-			(at 220.98 95.25 0)
+			(at 161.29 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1891,7 +1935,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 224.79 91.44 0)
+			(at 165.1 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1944,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD2CAN.pdf"
-			(at 224.79 91.44 0)
+			(at 165.1 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1909,7 +1953,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,7 +1962,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.pl/ProductDetail/Nexperia/PESD2CAN215?qs=LOCUfHb8d9sqg7TaLUP2JQ%3D%3D"
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1927,7 +1971,7 @@
 			)
 		)
 		(property "Author" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1935,7 +1979,7 @@
 			)
 		)
 		(property "License" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1943,7 +1987,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1951,7 +1995,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1959,7 +2003,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 224.79 87.63 0)
+			(at 165.1 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2054,7 +2098,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 231.14 90.17 0)
+		(at 171.45 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2063,7 +2107,7 @@
 		(fields_autoplaced yes)
 		(uuid "ef4adfea-fc15-4c76-b2b7-bfa001008f08")
 		(property "Reference" "#PWR043"
-			(at 231.14 96.52 0)
+			(at 171.45 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2116,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 231.14 95.25 0)
+			(at 171.45 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2080,7 +2124,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 231.14 90.17 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2089,7 +2133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 231.14 90.17 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2098,7 +2142,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 231.14 90.17 0)
+			(at 171.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
