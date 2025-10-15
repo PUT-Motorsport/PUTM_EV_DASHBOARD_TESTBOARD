@@ -1,4 +1,4 @@
-26310167744605894
+26331292121703457
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104867,6 +104867,62 @@ Varistor VF
 2
 2
 footprints
+3557-2
+3557-2
+Connector
+0
+4
+4
+footprints
+19163-0076
+
+
+0
+1
+1
+footprints
+0154001.DRT
+0154001.DRT
+Fuse
+0
+2
+2
+footprints
+AMASS_XT60PW-M
+
+
+0
+4
+4
+footprints
+AS214-97PN
+
+
+0
+12
+12
+footprints
+CellPad
+
+
+0
+1
+1
+footprints
+FTSH-107-XX-YYY-DV-K-A
+FTSH-107-XX-YYY-DV-K-A
+Connector
+0
+14
+14
+footprints
+Fuseholder_Keystone_3522-2
+
+
+0
+4
+2
+footprints
 HARWIN_M80-4000442
 
 
@@ -104930,6 +104986,13 @@ Relay or Contactor
 8
 8
 footprints
+LTC6810
+44-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (http://cds.linear.com/docs/en/datasheet/680313fa.pdf)
+SSOP 0.5
+0
+44
+44
+footprints
 PJ3253
 
 
@@ -104943,6 +105006,27 @@ Potentiometer_3590
 0
 3
 3
+footprints
+RM85V7
+
+
+0
+6
+6
+footprints
+STM32L4P5RET6
+
+
+0
+64
+64
+footprints
+USB-C_Receptacle_GCT_USB4145-03-0070-C
+
+
+0
+20
+17
 footprints
 WAGO_2060_453_SMD
 

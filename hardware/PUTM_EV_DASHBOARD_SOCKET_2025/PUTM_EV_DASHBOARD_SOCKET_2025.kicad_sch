@@ -36,10 +36,6 @@
 		(uuid "3e1273f5-1856-4b21-93f6-eff1dc2bad59")
 	)
 	(no_connect
-		(at 128.27 19.05)
-		(uuid "44bd6615-45ce-4c18-b56c-aa2327611110")
-	)
-	(no_connect
 		(at 247.65 107.95)
 		(uuid "46425409-a9ea-4a0a-babe-e259169ac028")
 	)
@@ -1185,16 +1181,6 @@
 		(pin "SWD_RST" input
 			(at 125.73 19.05 90)
 			(uuid "306c7432-1029-4518-9713-17a3727c27f1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "SWD_SWO" input
-			(at 128.27 19.05 90)
-			(uuid "9599394d-0135-4a2c-8b59-4d2cb5f2336a")
 			(effects
 				(font
 					(size 1.27 1.27)
