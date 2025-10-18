@@ -927,10 +927,6 @@
 		(uuid "f715bebf-5fee-4667-8d8e-a3fd67fb321e")
 	)
 	(no_connect
-		(at 113.03 86.36)
-		(uuid "00ba646f-d63f-4243-933a-a0b334dc0660")
-	)
-	(no_connect
 		(at 113.03 78.74)
 		(uuid "032c69c2-2688-4a92-aeb5-306a33fe51aa")
 	)
@@ -1027,6 +1023,50 @@
 			(type default)
 		)
 		(uuid "ed0a66d2-1d60-42d1-b5e6-435a98a97a4e")
+	)
+	(global_label "SWD_SWO"
+		(shape input)
+		(at 113.03 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e50ba4b-71e8-4699-8b22-6c1bc54f5733")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 124.9051 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWD_SWO"
+		(shape input)
+		(at 162.56 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "150cde05-e17c-41d1-950a-f0febd75456e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 150.6849 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
 	)
 	(hierarchical_label "SWD_SW_CLK"
 		(shape input)
@@ -1267,73 +1307,6 @@
 			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
 				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/9b1bc52f-6033-4f71-8f99-a4060d1be2be"
 					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 162.56 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a518c33-c371-4912-b0a8-2a6e396951ce")
-		(property "Reference" "#PWR042"
-			(at 156.21 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 158.75 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 162.56 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 162.56 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6497abea-162d-4bd0-b341-b027daa91810")
-		)
-		(instances
-			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
-				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/9b1bc52f-6033-4f71-8f99-a4060d1be2be"
-					(reference "#PWR042")
 					(unit 1)
 				)
 			)
