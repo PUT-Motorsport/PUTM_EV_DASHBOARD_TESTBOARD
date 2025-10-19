@@ -2962,7 +2962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.exar.com/content/document.ashx?id=22106&languageid=1033&type=Datasheet&partnumber=SPX3819&filename=SPX3819.pdf&part=SPX3819"
+		(property "Datasheet" "https://www.tme.eu/pl/details/spx3819m5-l-3-3_tr/stabilizatory-napiecia-nieregulowane-ldo/maxlinear/"
 			(at 173.99 41.91 0)
 			(effects
 				(font

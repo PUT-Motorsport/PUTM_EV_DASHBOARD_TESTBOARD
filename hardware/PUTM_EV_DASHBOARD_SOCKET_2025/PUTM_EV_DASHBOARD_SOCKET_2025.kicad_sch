@@ -124,6 +124,10 @@
 		(uuid "a4647afb-7ec3-47ac-b32b-d4ffd25d3ac3")
 	)
 	(no_connect
+		(at 123.19 17.78)
+		(uuid "a609cb30-b425-4b7f-9e5e-4c96cc36c4bd")
+	)
+	(no_connect
 		(at 85.09 17.78)
 		(uuid "a76a4a50-f4b6-4d7d-9ec4-b61cbb13527e")
 	)
@@ -1201,6 +1205,16 @@
 		(pin "SWD_VCC_+3.3V" input
 			(at 130.81 17.78 90)
 			(uuid "8e1c1ebc-8880-41f7-8b58-610f720c0e89")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SWD_SWO" input
+			(at 123.19 17.78 90)
+			(uuid "ee137b71-e635-4e93-92ec-5d1aefd86b8b")
 			(effects
 				(font
 					(size 1.27 1.27)
