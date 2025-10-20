@@ -12331,7 +12331,7 @@
 		(at 126.93 34.5 180)
 		(descr "9-pin D-Sub connector, straight/vertical, THT-mount, socket (female), pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf")
 		(tags "9-pin D-Sub connector straight vertical THT socket pitch 2.77x2.84mm mounting holes distance 25mm")
-		(property "Reference" "CAN_2"
+		(property "Reference" "CAN_1"
 			(at -5.37 6.4 0)
 			(layer "B.SilkS")
 			(uuid "8ebfb07b-3fc2-4442-989c-f3abd7fdce10")
@@ -15962,9 +15962,8 @@
 			(uuid "e730c5a8-e817-47d2-b1de-283d4d533267")
 			(effects
 				(font
-					(size 1.5 1.5)
-					(thickness 0.3)
-					(bold yes)
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16674,7 +16673,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "RADOSŁAW BARYŁKO\nDASHBOARD_TESTBOARD\nv1.3"
+	(gr_text "RADOSŁAW BARYŁKO\nDASHBOARD_TESTBOARD\nv1.0"
 		(at 191.9 98.7 0)
 		(layer "B.SilkS")
 		(uuid "9700b1f8-86b5-4535-9449-337d93fadfb7")
