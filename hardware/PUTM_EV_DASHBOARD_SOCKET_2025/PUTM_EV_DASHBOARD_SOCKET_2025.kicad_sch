@@ -92,6 +92,10 @@
 		(uuid "844c2cd2-10c6-4e6b-aa13-888938e66c0d")
 	)
 	(no_connect
+		(at 256.54 118.11)
+		(uuid "8482f43d-dc81-44af-af3d-7a2330fb2339")
+	)
+	(no_connect
 		(at 167.64 85.09)
 		(uuid "869769e9-07d8-4d29-a1fa-15137f71fa37")
 	)
@@ -1369,6 +1373,16 @@
 		(pin "POWER1" input
 			(at 256.54 125.73 180)
 			(uuid "284bd531-e74d-401f-9b6b-b129bdc7cd8c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BANANA_JACK" input
+			(at 256.54 118.11 180)
+			(uuid "e0dbfee7-b311-4c23-9b50-799ef7fe4841")
 			(effects
 				(font
 					(size 1.27 1.27)

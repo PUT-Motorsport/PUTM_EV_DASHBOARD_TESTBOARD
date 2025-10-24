@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TDZVTR20
+D 500mW 20V, SOD-323HE, Zener Diode
+K
+F https://componentsearchengine.com/Datasheets/1/TDZVTR20.pdf
+$ENDCMP
+#
+#End Doc Library
