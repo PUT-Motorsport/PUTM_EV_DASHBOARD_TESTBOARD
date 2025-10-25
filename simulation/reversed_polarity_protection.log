@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\Administrator\Desktop\Motorsport\PUTM_EV_DASHBOARD_TESTBOARD_2025\simulation\reversed_polarity_protection.asc
-Start Time: Fri Oct 24 15:24:29 2025
+Start Time: Sat Oct 25 12:33:20 2025
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -34,5 +34,5 @@ vernier = 0.000488281
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.242 seconds.
+Total elapsed time: 0.282 seconds.
 
