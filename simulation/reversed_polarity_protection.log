@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\Administrator\Desktop\Motorsport\PUTM_EV_DASHBOARD_TESTBOARD_2025\simulation\reversed_polarity_protection.asc
 Start Time: Sat Oct 25 12:33:20 2025
@@ -36,3 +37,6 @@ Gmin stepping succeeded in finding the operating point.
 
 Total elapsed time: 0.282 seconds.
 
+=======
+Fatal Error: Could not open library file "C:\Users\Administrator\Desktop\Motorsport\PUTM_EV_DASHBOARD_TESTBOARD_2025\simulation\stn3p6f6-v2.lib"
+>>>>>>> a6a4af139f35f0f77332acf3da64206a762247a3
