@@ -1,4 +1,4 @@
-(footprint "PJ3253"
+(footprint "D-3230"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "PJ3253"
+	(property "Value" "D-3230"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -79,8 +79,8 @@
 	)
 	(pad "1" thru_hole circle
 		(at 0 -2.5)
-		(size 3 3)
-		(drill 1.9)
+		(size 8 8)
+		(drill 4.2)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "fee515c0-79f3-4854-8738-92651eba29db")
