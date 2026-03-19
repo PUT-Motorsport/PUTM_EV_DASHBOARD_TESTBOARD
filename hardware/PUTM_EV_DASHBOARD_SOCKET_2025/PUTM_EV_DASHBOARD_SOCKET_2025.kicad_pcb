@@ -344,7 +344,7 @@
 			(uuid "3d2ab01c-902f-43a3-8882-2121eed079d2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -543,7 +543,7 @@
 			(uuid "b132b940-68d6-4eb5-b82a-9cc18e7a7ebc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -742,7 +742,7 @@
 			(uuid "0d0fd3bd-387a-4dbb-9de9-943c47c374f2")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1037,7 +1037,7 @@
 			(uuid "c1f7b11d-e48b-414c-a0e0-2506fb14f54c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+		(model "${KIPRJMOD}/packages3D/SOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1236,7 +1236,7 @@
 			(uuid "963275b9-aeae-45be-ad83-2873a428bdf0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1435,7 +1435,7 @@
 			(uuid "88720119-a511-4318-8b21-269e83bbda6f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1634,7 +1634,7 @@
 			(uuid "11b23632-870a-4029-b22f-b25978cec922")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2676,7 +2676,7 @@
 			(uuid "f10fbda2-1c5f-4d3f-b62f-7329ffdd6176")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief.step"
+		(model "${KIPRJMOD}/packages3D/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2875,7 +2875,7 @@
 			(uuid "5fd1856e-ab45-4879-b003-3b366552a69a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3190,7 +3190,7 @@
 			(uuid "a9ffa557-9926-44fb-85d9-6e5626f01a43")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+		(model "${KIPRJMOD}/packages3D/SOT-23-5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3412,7 +3412,7 @@
 			(uuid "5eda4379-08eb-4d78-83a1-90c8dac17677")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\TDZVTR20.stp"
+		(model "${KIPRJMOD}/packages3D/TDZVTR20.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3611,7 +3611,7 @@
 			(uuid "cffb759a-494c-46a8-af15-01bfd2082824")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3811,7 +3811,7 @@
 			(uuid "22aca758-e153-45c6-ae50-202b0af3fe30")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4106,7 +4106,7 @@
 			(uuid "6f9fb139-261e-472f-a521-be3692f9ef1f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+		(model "${KIPRJMOD}/packages3D/SOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4305,7 +4305,7 @@
 			(uuid "d30d7822-bbf7-4f5c-8f40-d066cb8dc079")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4504,7 +4504,7 @@
 			(uuid "6ec4bb22-8098-4483-8a8c-31117227be97")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5205,7 +5205,7 @@
 			(uuid "94aab97a-e68c-4d4f-af85-18be8eb328cc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x20_P1.27mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x20_P1.27mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5501,7 +5501,7 @@
 			(uuid "782b6658-1ad1-4cb0-b7f0-e6d4f1b38d52")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+		(model "${KIPRJMOD}/packages3D/SOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5700,7 +5700,7 @@
 			(uuid "710cc468-76ce-4975-ba56-cbc9cc58cdb8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5899,7 +5899,7 @@
 			(uuid "4ab6c967-7068-4233-99d9-a33e52f24637")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6098,7 +6098,7 @@
 			(uuid "7384586a-14b2-42b0-9e41-c4851d530557")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6297,7 +6297,7 @@
 			(uuid "6ddecf11-6f44-45f0-a986-3441dc3ea3aa")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6496,7 +6496,7 @@
 			(uuid "1640ae54-ce24-4003-a7c1-b4e8984fbd27")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6695,7 +6695,7 @@
 			(uuid "4085f5aa-16d0-4c36-93ce-db4afbf2b734")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6960,7 +6960,7 @@
 			(uuid "b6c1117f-8e5d-4473-8854-75f0004e70c5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
+		(model "${KIPRJMOD}/packages3D/SOT-223.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7159,7 +7159,7 @@
 			(uuid "c4b0b00f-12e4-4401-822c-a0d9fc8f3641")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7474,7 +7474,7 @@
 			(uuid "771c639c-8c0a-4016-99b7-f3a5eceb0a92")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+		(model "${KIPRJMOD}/packages3D/SOT-23-5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7673,7 +7673,7 @@
 			(uuid "9a037dac-b02e-4aef-93d9-d61a15cf77c8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7872,7 +7872,7 @@
 			(uuid "ca155220-e2a4-419c-b75b-650b4dfa3690")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+		(model "${KIPRJMOD}/packages3D/C_0603_1608Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8276,7 +8276,7 @@
 			(uuid "465e6798-d02c-4696-b7b1-b91ef4de7cc5")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\PTS526SM15SMTR2_LFS.stp"
+		(model "${KIPRJMOD}/packages3D/PTS526SM15SMTR2_LFS.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -8530,7 +8530,7 @@
 			(uuid "24df041a-5b41-46be-95ef-892033bd7906")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3.4x3.0mm_AK.step"
+		(model "${KIPRJMOD}/packages3D/LED_PLCC-2_3.4x3.0mm_AK.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8845,7 +8845,7 @@
 			(uuid "64f61056-1517-4550-a6f2-05c8449323db")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_Kycon_KLDX-0202-xC_Horizontal.step"
+		(model "${KIPRJMOD}/packages3D/BarrelJack_Kycon_KLDX-0202-xC_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9249,7 +9249,7 @@
 			(uuid "eb70c3b4-c7db-46d9-9dd6-e3d8cf306f9b")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\PTS526SM15SMTR2_LFS.stp"
+		(model "${KIPRJMOD}/packages3D/PTS526SM15SMTR2_LFS.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -9453,7 +9453,7 @@
 			(uuid "578f1355-ee74-411d-a070-a01c1a4a6fad")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9711,7 +9711,7 @@
 			(uuid "ca3c381e-adf4-4ace-b5dd-ee3b0da3878d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10417,7 +10417,7 @@
 			(uuid "1e348284-6ddc-4fed-812d-26540e246d21")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_2x20_P1.27mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x20_P1.27mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11067,7 +11067,7 @@
 			(uuid "4ba8b881-a305-4ba7-a6e9-a70b5b7b1a2d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3.4x3.0mm_AK.step"
+		(model "${KIPRJMOD}/packages3D/LED_PLCC-2_3.4x3.0mm_AK.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11471,7 +11471,7 @@
 			(uuid "f4c3071a-2435-47e5-9a9e-276270825178")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\PTS526SM15SMTR2_LFS.stp"
+		(model "${KIPRJMOD}/packages3D/PTS526SM15SMTR2_LFS.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -11729,7 +11729,7 @@
 			(uuid "25302968-227b-4f6a-ae2c-dbaf0db0cf61")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11987,7 +11987,7 @@
 			(uuid "db767a31-755c-4576-9756-595d7a1c3bbc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12241,7 +12241,7 @@
 			(uuid "3603772f-531a-4094-a3fc-42f9c878f127")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_PLCC-2_3.4x3.0mm_AK.step"
+		(model "${KIPRJMOD}/packages3D/LED_PLCC-2_3.4x3.0mm_AK.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12645,7 +12645,7 @@
 			(uuid "631eb634-b12b-443c-8501-4d8351c8e296")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\PTS526SM15SMTR2_LFS.stp"
+		(model "${KIPRJMOD}/packages3D/PTS526SM15SMTR2_LFS.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -12903,7 +12903,7 @@
 			(uuid "2e09d5ea-c68a-4d40-b444-732edd0f2482")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13261,7 +13261,7 @@
 			(uuid "acf285c3-3aa6-44b7-814e-3d5fe939ceed")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-323_SC-70.step"
+		(model "${KIPRJMOD}/packages3D/SOT-323_SC-70.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13519,7 +13519,7 @@
 			(uuid "aba1713c-f8ff-4a78-abe5-529a009325d7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13777,7 +13777,7 @@
 			(uuid "479a966e-0517-44db-ac17-d5101be0892c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14035,7 +14035,7 @@
 			(uuid "1c18a660-5b3a-4ce3-843c-8382bc25d334")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14627,7 +14627,7 @@
 			(uuid "f1387531-8ed2-42fb-b6fd-883e9a66e706")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-9_Socket_Vertical_P2.77x2.84mm.step"
+		(model "${KIPRJMOD}/packages3D/DSUB-9_Socket_Vertical_P2.77x2.84mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15355,7 +15355,7 @@
 			(uuid "8e8e022c-b748-41fd-95fa-22f560d7f855")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm_Relief.step"
+		(model "${KIPRJMOD}/packages3D/SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm_Relief.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15778,7 +15778,7 @@
 			(uuid "7ff82648-03e4-4e55-a3af-28ca9de32d48")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/footprint/Samacsys.3dshapes/FTSH-107-01-L-DV-K-A.stp"
+		(model "${KIPRJMOD}/packages3D/FTSH-107-01-L-DV-K-A.stp"
 			(offset
 				(xyz 0 0 0.5)
 			)
@@ -16825,7 +16825,7 @@
 			(uuid "f6d54314-d389-4843-a2ca-8c9ebbf0f621")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief.step"
+		(model "${KIPRJMOD}/packages3D/SolderWire-0.1sqmm_1x06_P3.6mm_D0.4mm_OD1mm_Relief.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17240,7 +17240,7 @@
 			(uuid "8e26f20b-a25d-4c7b-aa80-80992ea50a74")
 		)
 		(embedded_fonts no)
-		(model "C:\\Users\\Administrator\\Desktop\\Motorsport\\PUTM_EV_DASHBOARD_TESTBOARD_2025\\hardware\\PUTM_EV_DASHBOARD_SOCKET_2025\\footprints\\SamacSys_Parts.3dshapes\\PTS526SM15SMTR2_LFS.stp"
+		(model "${KIPRJMOD}/packages3D/PTS526SM15SMTR2_LFS.stp"
 			(offset
 				(xyz 0 0 0.04999999999)
 			)
@@ -17647,7 +17647,7 @@
 			(uuid "a3963ae2-e507-4db3-b428-952b94769669")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm_Relief.step"
+		(model "${KIPRJMOD}/packages3D/SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm_Relief.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17905,7 +17905,7 @@
 			(uuid "fc14e06c-dd0c-4044-9716-b80697c9c12f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18163,7 +18163,7 @@
 			(uuid "ffe4cc9b-288b-4870-a7c7-bba80619dfc8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
