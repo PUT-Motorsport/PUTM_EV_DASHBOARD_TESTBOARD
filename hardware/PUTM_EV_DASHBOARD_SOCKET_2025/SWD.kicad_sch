@@ -1363,7 +1363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0424ccc-cc8d-4c7d-b2f6-77e020b72f38")
-		(property "Reference" "SWD2"
+		(property "Reference" "SWD"
 			(at 170.18 86.3599 0)
 			(effects
 				(font
@@ -1429,7 +1429,7 @@
 		(instances
 			(project "PUTM_EV_DASHBOARD_SOCKET_2025"
 				(path "/8dcb9295-4fa2-433e-bd2f-4b006d008a4e/9b1bc52f-6033-4f71-8f99-a4060d1be2be"
-					(reference "SWD2")
+					(reference "SWD")
 					(unit 1)
 				)
 			)
